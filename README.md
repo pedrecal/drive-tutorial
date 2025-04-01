@@ -7,6 +7,14 @@
 - [ ] Add auth
 - [ ] Add a file upload
 
+## Note from 4-1-2025
+
+- [ ] Update schema to show files and folders
+- [ ] Manually insert examples
+- [ ] Render them in the UI
+- [ ] Push and make sure it works
+
+
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
 ## What's next? How do I make an app with this?
